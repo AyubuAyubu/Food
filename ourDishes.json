@@ -4,71 +4,72 @@
       "id": 1,
       "name": "Biryani",
       "price": 350,
-      "image": "./assets/biryani.jpg"
+      "image": "./assets/biryani.jpg",
+      "review":""
      
     },
     {
       "id": 2,
       "name": "Burger",
       "price": 100,
-      "image": "./assets/burger.jpg"
+      "image": "./assets/burger.jpg",
+      "review":""
       
     },
     {
       "id": 3,
       "name": "Butter Chicken",
       "price": 400,
-      "image": "./assets/butterchicken.jpg"
+      "image": "./assets/butterchicken.jpg",
+      "review":""
     },
     {
       "id": 4,
       "name": "Dessert",
       "price": 200,
-      "image": "./assets/dessert.jpg"
+      "image": "./assets/dessert.jpg",
+      "review":""
       
     },
     {
       "id": 5,
       "name": "Kaimati",
       "price": 10,
-      "image": "./assets/kaimati.jpg"
+      "image": "./assets/kaimati.jpg",
+      "review":""
       
     },
     {
       "id": 6,
       "name": "Mabuyu",
       "price": 100,
-      "image": "./assets/mabuyu.jpg"
+      "image": "./assets/mabuyu.jpg",
+      "review":""
      
     },
     {
       "id": 7,
-      "name": "Mkate wa sinia",
-      "price": 15,
-      "image": "./assets/mkate.jpg"
-      
-    },
-    {
-      "id": 8,
       "name": "Pasta",
       "price": 40,
-      "image": "./assets/pasta.jpg"
+      "image": "./assets/pasta.jpg",
+      "review":""
      
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Rice",
       "price": 100,
-      "image": "./assets/rice.jpg"
-      
+      "image": "./assets/rice.jpg",
+      "review":""
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Samosa",
       "price": 20,
-      "image": "./assets/samosa.jpg"
-      
+      "image": "./assets/samosa.jpg",
+      "review":""
     }
   ]
+   
   
 }
