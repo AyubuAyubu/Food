@@ -4,39 +4,35 @@
       "id": 1,
       "name": "Biryani",
       "price": 350,
-      "image": "./assets/biryani.jpg",
-      "review":""
-     
+      "image": "./assets/biryani.jpg"
     },
     {
       "id": 2,
       "name": "Burger",
       "price": 100,
-      "image": "./assets/burger.jpg",
-      "review":""
+      "image": "./assets/burger.jpg"
       
     },
     {
       "id": 3,
       "name": "Butter Chicken",
       "price": 400,
-      "image": "./assets/butterchicken.jpg",
-      "review":""
+      "image": "./assets/butterchicken.jpg"
     },
     {
       "id": 4,
       "name": "Dessert",
       "price": 200,
-      "image": "./assets/dessert.jpg",
-      "review":""
+      "image": "./assets/dessert.jpg"
+      
       
     },
     {
       "id": 5,
       "name": "Kaimati",
       "price": 10,
-      "image": "./assets/kaimati.jpg",
-      "review":""
+      "image": "./assets/kaimati.jpg"
+     
       
     },
     {
@@ -51,23 +47,23 @@
       "id": 7,
       "name": "Pasta",
       "price": 40,
-      "image": "./assets/pasta.jpg",
-      "review":""
+      "image": "./assets/pasta.jpg"
+      
      
     },
     {
       "id": 8,
       "name": "Rice",
       "price": 100,
-      "image": "./assets/rice.jpg",
-      "review":""
+      "image": "./assets/rice.jpg"
+     
     },
     {
       "id": 9,
       "name": "Samosa",
       "price": 20,
-      "image": "./assets/samosa.jpg",
-      "review":""
+      "image": "./assets/samosa.jpg"
+      
     }
   ]
    

@@ -14,9 +14,6 @@ function fetchFood(){
 
 }
 
-
-
-
 function getAllFood(food ){
         const parentUl=document.getElementById("food-list")
         const li=document.createElement("li")
