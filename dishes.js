@@ -19,10 +19,10 @@ function fetchFood(){
 
 function getAllFood(food ){
         const parentUl=document.getElementById("food-list")
-        //const li=document.createElement("li")
-        //li.className="our-dishes"
-        //li.innerHTML=`<h1>${food.name}</h1> <p>Ksh ${food.price}</p> <img src="${food.image}"/>`
-       // parentUl.appendChild(li) 
+        const li=document.createElement("li")
+        li.className="our-dishes"
+        li.innerHTML=`<h1>${food.name}</h1> <p>Ksh ${food.price}</p> <img src="${food.image}"/>`
+        parentUl.appendChild(li) 
         
             
 }
