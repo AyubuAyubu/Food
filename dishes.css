@@ -10,7 +10,6 @@ body{
     height: 100vh;
 }
 
-navigationsection
 .navbar {
     width: 1400px;
     height: 55px;
@@ -58,7 +57,7 @@ navigationsection
   }
   ul li a:hover {
     color: blue;
-  }
+  } 
 
   homesection
   .content{
