@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 })
 
 
-/*
+
 function fetchFood(){
     fetch("http://localhost:3000/dishes")
       .then(resp=>resp.json())
@@ -13,7 +13,7 @@ function fetchFood(){
       .then(data => data.forEach(food => getAllFood(food)))
 
 }
-*/
+
 
 /*
 
