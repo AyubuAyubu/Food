@@ -1,9 +1,9 @@
 console.log("working")
-/*
+
 document.addEventListener("DOMContentLoaded",()=>{
     fetchFood()
 })
-*/
+
 
 /*
 function fetchFood(){
