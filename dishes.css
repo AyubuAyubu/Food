@@ -1,92 +1,91 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-body{
-    width: 100%;
-    background-image:url(./assets/dishes.jpg);
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
+body {
+  width: 100%;
+  background-image: url(./assets/dishes.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
 }
 
 .navbar {
-    width: 1400px;
-    height: 55px;
-    margin: auto;
-  }
-  .icon {
-    width: 200px;
-    float: left;
-    height: 70px;
-  }
-  .logo {
-    color: blue;
-    font-size: 35px;
-    font-family: Arial;
-    padding-left: 50px;
-    float: left;
-    padding-top: 20px;
-    margin-top: 5px;
-  }
+  width: 1400px;
+  height: 55px;
+  margin: auto;
+}
+.icon {
+  width: 200px;
+  float: left;
+  height: 70px;
+}
+.logo {
+  color: blue;
+  font-size: 35px;
+  font-family: Arial;
+  padding-left: 50px;
+  float: left;
+  padding-top: 20px;
+  margin-top: 5px;
+}
 
 .menu {
-    width: 920px;
-    float: right;
-    display: flex;
-    height: 70px;
-  }
-  ul {
-    float: left;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  ul li {
-    list-style: none;
-    margin-left: 68px;
-    margin-top: 27px;
-    font-size: 30px;
-  }
-  ul li a {
-    text-decoration: none;
-    color: rgb(52, 109, 194);
-    font-family: Arial;
-    font-weight: bold;
-    transition: 0.4s ease-in-out;
-  }
-  ul li a:hover {
-    color: blue;
-  } 
-
-
-  .content{
-    width: 1200px;
-    height: auto;
-    margin: auto;
-    position: relative;
-    padding-top: 20px;
+  width: 920px;
+  float: right;
+  display: flex;
+  height: 70px;
 }
-.content .par{
-    padding-left: 20px;
-    padding-bottom: 25px;
-    padding-top: 10px;
-    font-family: Arial;
-    color: rgb(33, 17, 255);
-    letter-spacing: 1.2px;
-    line-height: 30px;
-    font-size: 25px;
+ul {
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.content h1{
-    font-family: 'Times New Roman';
-    font-size: 50px;
-    padding-left: 20px;
-    margin-top: 9%;
-    color: #272320;
-    letter-spacing: 2px;
+ul li {
+  list-style: none;
+  margin-left: 68px;
+  margin-top: 27px;
+  font-size: 30px;
+}
+ul li a {
+  text-decoration: none;
+  color: rgb(52, 109, 194);
+  font-family: Arial;
+  font-weight: bold;
+  transition: 0.4s ease-in-out;
+}
+ul li a:hover {
+  color: blue;
 }
 
-.content .cn{
+.content {
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  position: relative;
+  padding-top: 20px;
+}
+.content .par {
+  padding-left: 20px;
+  padding-bottom: 25px;
+  padding-top: 10px;
+  font-family: Arial;
+  color: rgb(33, 17, 255);
+  letter-spacing: 1.2px;
+  line-height: 30px;
+  font-size: 25px;
+}
+.content h1 {
+  font-family: "Times New Roman";
+  font-size: 50px;
+  padding-left: 20px;
+  margin-top: 9%;
+  color: #272320;
+  letter-spacing: 2px;
+}
+
+.content .cn {
   width: 160px;
   height: 40px;
   background: #272320;
@@ -96,26 +95,23 @@ body{
   font-size: 18px;
   border-radius: 10px;
   cursor: pointer;
-  transition: .4s ease;
-  
+  transition: 0.4s ease;
 }
-.content .cn a{
+.content .cn a {
   text-decoration: none;
   color: #fff;
-  transition: .3s ease;
+  transition: 0.3s ease;
 }
-.cn:hover{
+.cn:hover {
   background-color: rgb(77, 150, 235);
 }
 
-
-.content span{
+.content span {
   color: #ff7200;
-  font-size: 65px
+  font-size: 65px;
 }
 
-
-#about-us{
+#about-us {
   margin: 40px;
   padding-bottom: 30px;
 }
@@ -123,19 +119,17 @@ body{
   margin: 30px;
   padding-top: 15px;
 }
-#about-us  .our-history  h1 {
+#about-us .our-history h1 {
   text-align: center;
   color: #2813e9;
   font-size: 25px;
   font-weight: bold;
-
 }
-#about-us  .our-history  p {
+#about-us .our-history p {
   text-align: center;
   color: #0e0846;
   font-size: 22px;
   font-weight: bold;
-
 }
 #objective {
   margin: 40px;
@@ -149,32 +143,31 @@ body{
   font-weight: bold;
   padding-top: 10px;
 }
-#objective .mission p{
+#objective .mission p {
   font-size: 35px;
   text-align: center;
   padding: 5px;
   color: rgb(58, 55, 55);
 }
 
-
-.our-dishes{
-  margin:2rem 0;
+.our-dishes {
+  margin: 2rem 0;
   position: relative;
   overflow: hidden;
-  border:.15rem solid purple;
+  border: 0.15rem solid purple;
   text-align: center;
   width: 100%;
   height: 100%;
   bottom: 2rem;
 }
 
-#food-list{
+#food-list {
   columns: 3;
   padding-top: 20px;
   position: absolute;
   margin-left: 200px;
 }
-.our-dishes img{
-    width:20rem;
-    height:20rem;
+.our-dishes img {
+  width: 20rem;
+  height: 20rem;
 }
