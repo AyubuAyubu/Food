@@ -4,7 +4,8 @@
       "id": 1,
       "name": "Biryani",
       "price": 350,
-      "image": "./assets/biryani.jpg"
+      "image": "./assets/biryani.jpg",
+      "review":""
     },
     {
       "id": 2,
