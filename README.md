@@ -10,7 +10,7 @@ app.
 Run this command to get the backend started:
 
 ```sh
-json-server --watch ourDishes.json 
+npx json-server --watch ourDishes.json 
 ```
 
 **Make sure to run this command exactly as written**, otherwise your server will
